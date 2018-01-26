@@ -1,4 +1,4 @@
 # hello-world
 Hello word repository
 
-Reository used to learn and understand GitHub.
+Repository used to learn and understand GitHub.
